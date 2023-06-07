@@ -1,0 +1,2 @@
+working_directory=$(realpath .)
+echo "$working_directory"

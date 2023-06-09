@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo "The file type of '/tmp/iamafile' is: $(file /tmp/iamafile)"
+#!/bin/bash
+file -b /tmp/iamafile 

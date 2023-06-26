@@ -1,2 +1,3 @@
 #!/bin/bash 
-file_type=$(file -b iamafile)
+file /tmp/iamafile
+
